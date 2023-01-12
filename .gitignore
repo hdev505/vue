@@ -15,3 +15,6 @@ packages/template-compiler/browser.js
 dist
 temp
 types/v3-generated.d.ts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
